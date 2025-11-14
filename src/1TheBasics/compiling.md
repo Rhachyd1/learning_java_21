@@ -5,5 +5,3 @@
 
     running
         java class
-
-testing
